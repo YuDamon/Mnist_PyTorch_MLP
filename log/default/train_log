@@ -1,0 +1,52 @@
+=================FLAGS==================
+========================================
+decreasing_lr: [80, 120]
+Elapsed 3.52s, 3.52 s/epoch, 0.01 s/batch, ets 137.41s
+	Test set: Average loss: 0.2218, Accuracy: 9354/10000 (94%)
+Elapsed 6.87s, 3.43 s/epoch, 0.01 s/batch, ets 130.50s
+Elapsed 9.70s, 3.23 s/epoch, 0.01 s/batch, ets 119.67s
+Elapsed 12.55s, 3.14 s/epoch, 0.01 s/batch, ets 112.91s
+Elapsed 15.39s, 3.08 s/epoch, 0.01 s/batch, ets 107.71s
+Elapsed 18.26s, 3.04 s/epoch, 0.01 s/batch, ets 103.45s
+	Test set: Average loss: 0.0800, Accuracy: 9748/10000 (97%)
+Elapsed 21.62s, 3.09 s/epoch, 0.01 s/batch, ets 101.95s
+Elapsed 24.48s, 3.06 s/epoch, 0.01 s/batch, ets 97.90s
+Elapsed 27.30s, 3.03 s/epoch, 0.01 s/batch, ets 94.04s
+Elapsed 30.19s, 3.02 s/epoch, 0.01 s/batch, ets 90.58s
+Elapsed 33.15s, 3.01 s/epoch, 0.01 s/batch, ets 87.39s
+	Test set: Average loss: 0.0667, Accuracy: 9788/10000 (98%)
+Elapsed 36.47s, 3.04 s/epoch, 0.01 s/batch, ets 85.09s
+Elapsed 39.31s, 3.02 s/epoch, 0.01 s/batch, ets 81.65s
+Elapsed 42.41s, 3.03 s/epoch, 0.01 s/batch, ets 78.76s
+Elapsed 45.58s, 3.04 s/epoch, 0.01 s/batch, ets 75.97s
+Elapsed 48.51s, 3.03 s/epoch, 0.01 s/batch, ets 72.76s
+	Test set: Average loss: 0.0604, Accuracy: 9812/10000 (98%)
+Elapsed 51.84s, 3.05 s/epoch, 0.01 s/batch, ets 70.13s
+Elapsed 54.68s, 3.04 s/epoch, 0.01 s/batch, ets 66.83s
+Elapsed 57.50s, 3.03 s/epoch, 0.01 s/batch, ets 63.55s
+Elapsed 60.34s, 3.02 s/epoch, 0.01 s/batch, ets 60.34s
+Elapsed 63.20s, 3.01 s/epoch, 0.01 s/batch, ets 57.18s
+	Test set: Average loss: 0.0567, Accuracy: 9835/10000 (98%)
+Elapsed 66.54s, 3.02 s/epoch, 0.01 s/batch, ets 54.44s
+Elapsed 69.40s, 3.02 s/epoch, 0.01 s/batch, ets 51.30s
+Elapsed 72.42s, 3.02 s/epoch, 0.01 s/batch, ets 48.28s
+Elapsed 75.36s, 3.01 s/epoch, 0.01 s/batch, ets 45.22s
+Elapsed 78.85s, 3.03 s/epoch, 0.01 s/batch, ets 42.46s
+	Test set: Average loss: 0.0565, Accuracy: 9823/10000 (98%)
+Elapsed 82.23s, 3.05 s/epoch, 0.01 s/batch, ets 39.59s
+Elapsed 85.32s, 3.05 s/epoch, 0.01 s/batch, ets 36.57s
+Elapsed 88.18s, 3.04 s/epoch, 0.01 s/batch, ets 33.45s
+Elapsed 91.03s, 3.03 s/epoch, 0.01 s/batch, ets 30.34s
+Elapsed 93.87s, 3.03 s/epoch, 0.01 s/batch, ets 27.25s
+	Test set: Average loss: 0.0573, Accuracy: 9842/10000 (98%)
+Elapsed 97.58s, 3.05 s/epoch, 0.01 s/batch, ets 24.39s
+Elapsed 100.43s, 3.04 s/epoch, 0.01 s/batch, ets 21.30s
+Elapsed 103.33s, 3.04 s/epoch, 0.01 s/batch, ets 18.23s
+Elapsed 106.17s, 3.03 s/epoch, 0.01 s/batch, ets 15.17s
+Elapsed 109.21s, 3.03 s/epoch, 0.01 s/batch, ets 12.13s
+	Test set: Average loss: 0.0576, Accuracy: 9837/10000 (98%)
+Elapsed 112.53s, 3.04 s/epoch, 0.01 s/batch, ets 9.12s
+Elapsed 115.37s, 3.04 s/epoch, 0.01 s/batch, ets 6.07s
+Elapsed 118.21s, 3.03 s/epoch, 0.01 s/batch, ets 3.03s
+Elapsed 121.07s, 3.03 s/epoch, 0.01 s/batch, ets 0.00s
+Total Elapse: 121.08, Best Result: 98.420%
